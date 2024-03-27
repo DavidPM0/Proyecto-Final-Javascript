@@ -1,0 +1,179 @@
+{
+    "alquiler_auto":[
+        {
+            "id_auto": 1,
+            "user":[
+                {
+                    "id_user": 1,
+                    "nombre": "Carlos Jose Fernandez",
+                    "img": "./img/user1.png",
+                    "precio": 70
+                },
+                {
+                    "id_user": 2,
+                    "nombre": "Juan Alberto Amaya",
+                    "img": "./img/user2.png",
+                    "precio": 90
+                },
+                {
+                    "id_user": 3,
+                    "nombre": "Cayetana Moreno",
+                    "img": "./img/user3.png",
+                    "precio": 80
+                },
+                {
+                    "id_user": 4,
+                    "nombre": "Ismael Luna",
+                    "img": "./img/user4.png",
+                    "precio": 100
+                },
+                {
+                    "id_user": 5,
+                    "nombre": "Maria Begoña Torre",
+                    "img": "./img/user5.png",
+                    "precio": 110
+                }
+            ]
+        },
+        {
+            "id_auto": 2,
+            "user":[
+                {
+                    "id_user": 6,
+                    "nombre": "Jose Jesus Antolin",
+                    "img": "./img/user1.png",
+                    "precio": 75
+                },
+                {
+                    "id_user": 7,
+                    "nombre": "Francisco Miguel López",
+                    "img": "./img/user2.png",
+                    "precio": 95
+                },
+                {
+                    "id_user": 8,
+                    "nombre": "Alicia Antunez",
+                    "img": "./img/user3.png",
+                    "precio": 85
+                },
+                {
+                    "id_user": 9,
+                    "nombre": "Vasile Jorge",
+                    "img": "./img/user4.png",
+                    "precio": 105
+                },
+                {
+                    "id_user": 10,
+                    "nombre": "Sofia Barrio",
+                    "img": "./img/user5.png",
+                    "precio": 115
+                }
+            ]
+        },
+        {
+            "id_auto": 3,
+            "user":[
+                {
+                    "id_user": 11,
+                    "nombre": "Asier Barrero",
+                    "img": "./img/user1.png",
+                    "precio": 65
+                },
+                {
+                    "id_user": 12,
+                    "nombre": "Rafael Monzon",
+                    "img": "./img/user2.png",
+                    "precio": 85
+                },
+                {
+                    "id_user": 13,
+                    "nombre": "Lina Albert",
+                    "img": "./img/user3.png",
+                    "precio": 75
+                },
+                {
+                    "id_user": 14,
+                    "nombre": "Jesus Montes",
+                    "img": "./img/user4.png",
+                    "precio": 95
+                },
+                {
+                    "id_user": 15,
+                    "nombre": "Maria Angustias Gago",
+                    "img": "./img/user5.png",
+                    "precio": 105
+                }
+            ]
+        },
+        {
+            "id_auto": 4,
+            "user":[
+                {
+                    "id_user": 16,
+                    "nombre": "Anastasio Villa",
+                    "img": "./img/user1.png",
+                    "precio": 73
+                },
+                {
+                    "id_user": 17,
+                    "nombre": "Alexander Peña",
+                    "img": "./img/user2.png",
+                    "precio": 93
+                },
+                {
+                    "id_user": 18,
+                    "nombre": "Maria Elena Rivera",
+                    "img": "./img/user3.png",
+                    "precio": 83
+                },
+                {
+                    "id_user": 19,
+                    "nombre": "Basilio Domingo",
+                    "img": "./img/user4.png",
+                    "precio": 103
+                },
+                {
+                    "id_user": 20,
+                    "nombre": "Lydia Santiago",
+                    "img": "./img/user5.png",
+                    "precio": 113
+                }
+            ]
+        },
+        {
+            "id_auto": 5,
+            "user":[
+                {
+                    "id_user": 21,
+                    "nombre": "Nicolas Asensio",
+                    "img": "./img/user1.png",
+                    "precio": 81
+                },
+                {
+                    "id_user": 22,
+                    "nombre": "Marius Manzanares",
+                    "img": "./img/user2.png",
+                    "precio": 83
+                },
+                {
+                    "id_user": 23,
+                    "nombre": "Marta Maria Verdu",
+                    "img": "./img/user3.png",
+                    "precio": 91
+                },
+                {
+                    "id_user": 24,
+                    "nombre": "Fabian Puig",
+                    "img": "./img/user4.png",
+                    "precio": 93
+                },
+                {
+                    "id_user": 25,
+                    "nombre": "Dolors Iniesta",
+                    "img": "./img/user5.png",
+                    "precio": 79
+                }
+            ]
+        }
+    ]
+}

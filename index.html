@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venta de autos</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h2>Venta de autos</h2>
+        </div>
+        <div class="login">
+            <a href="#" id="inicia"><button>Inicia sesión</button></a>
+            <a href="#" id="registro"><button>Regístrate</button></a>
+        </div>
+    </header>
+    <div id="banner"><h1>Consigue el auto que estas buscando...</h1></div>
+    <div id="card"></div>
+    <div id="resultado"></div>
+    <div id="vendedores"></div>
+    <div id="ctd">0</div>
+    <i class="fas fa-shopping-cart" id="carrito" data-modal="#modal"></i>
+    <div class="modal" id="modal">
+        <div class="modal_container">
+            <i class="fas fa-times modal_close" id="modal_close"></i>
+
+            <div class="modal_info">
+                <div class="modal_header">
+                    <h2><i class="fas fa-shopping-cart"></i>Carrito</h2>
+                </div>
+
+                <div class="modal_body">
+                    <div id="modal_list">
+
+                    </div>
+                </div>
+
+                <div class="modal_footer">
+                    <div class="modal_list-price">
+                        <ul>
+                            <li>Subtotal: <strong id="precio_sub">$14.00</strong></li>
+                            <li>Descuento: <strong>$0.00</strong></li>
+                        </ul>
+                        <h4 class="modal_total-cart" id="precio_total"> Total: $14.00</h4>
+                    </div>
+
+                    <div class="modal_btns">
+                        <button class="btn-primary" id="comprar_ahora" data-modal="#modal">Comprar Ahora</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="pie-de-pagina">
+            <div class="grupo1">
+                <h2>Venta de autos</h2>
+            </div>
+            <div class="grupo2">
+                <h2>Nosotros</h2>
+                <br>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque perferendis quia in libero eos, repudiandae a quam animi commodi eius, similique delectus officiis ea consequatur neque nulla distinctio atque autem.</p>
+            </div>
+            <div class="grupo3">
+                <h2>Contactanos</h2>
+                <br>
+                <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-youtube"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="./main.js"></script>
+    <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>
